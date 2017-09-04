@@ -3,7 +3,7 @@
 
   Ermöglicht die Kommunikation zwischen Programmen basierend auf
   Nachrichtendateien.
-
+  
   Nachrichten senden mit:
   - SendenWarten (synchron)
   - Senden (asynchron)
@@ -12,7 +12,7 @@
   - Ereignis BeiEmpfang
 
   Arbeitszeit:
-abgerechnet bis 16.11. inklusive (am 23.11.)
+
   23.11.06    1.5h Fehler gesucht im IntelliEd
   28.11.06    2.5h Fehler behoben im IntelliEd, Funktionsliste fortgesetzt
   07.12.06    1.5h Funktionsliste abgeschlossen
